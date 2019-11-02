@@ -2,8 +2,8 @@ package Gmail;
 
 public class Credentials {
 
-    private String password="*******";
-    private String email;
+    private String password = "*******";
+    private String email =  "someEmailAddress";
 
 
     public String getPassword() {

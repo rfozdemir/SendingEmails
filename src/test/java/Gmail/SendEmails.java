@@ -12,8 +12,8 @@ public class SendEmails {
         Credentials obj = new Credentials();
         String userName = obj.getEmail(),
                 passWord = obj.getPassword(),
-                Receiver = "battal@cybertekschool.com",
-                MSG ="Hello Battla, How are you doing today...",
+                Receiver = "some@email.com",
+                MSG ="Hello Reader, How are you doing today...",
                 Subject ="Just small joke :)";
 
         for (int i = 0; i < 20; i++) {
